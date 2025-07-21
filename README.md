@@ -60,5 +60,5 @@ Based on the analysis, the following are the top 3 cities:
 
 The image below shows the output of the final SQL query that analyzes total sales, average sales per customer, customer base, and rent to identify the top 3 cities for business focus.
 
-![Top 3 Cities Query Output](results/top_3_cities_output.png)
+![Top 3 Cities Query Output](https://github.com/harsh-dataportfolio/SQL--Coffee-Sales-Analysis/blob/main/SQL%20Last%20Quesry%20Result.png)
 
